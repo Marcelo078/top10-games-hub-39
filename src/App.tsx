@@ -14,6 +14,7 @@ import Terms from "./pages/Terms";
 import About from "./pages/About";
 import Transparency from "./pages/Transparency";
 import Disclaimer from "./pages/Disclaimer";
+import Article from "./pages/Article";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -31,6 +32,7 @@ const App = () => (
             <Route path="/videogames" element={<VideoGames />} />
             <Route path="/arcade" element={<Arcade />} />
             <Route path="/digitais" element={<Digitais />} />
+            <Route path="/artigo/:slug" element={<Article />} />
             <Route path="/privacidade" element={<Privacy />} />
             <Route path="/termos" element={<Terms />} />
             <Route path="/sobre" element={<About />} />
