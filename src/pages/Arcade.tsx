@@ -7,16 +7,18 @@ const Arcade = () => {
   const arcadeProducts = [
     {
       title: "Mini PDV Elgin M11 Pro Touch Screen com Impressora WiFi - Sistema de Pontos",
-      price: "R$ 1.899",
+      price: "R$ 2.299",
       image: "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=800&auto=format&fit=crop",
       affiliateLink: "https://mercadolivre.com/sec/2EY25ET",
+      articleSlug: "mini-pdv-elgin-m11-pro-touch-screen-impressora-wifi",
       badge: "AUTOMAÇÃO"
     },
     {
       title: "Computador Intel Core I3 7ª Geração 8GB SSD 240GB Monitor - Setup Arcade",
-      price: "R$ 1.999",
+      price: "R$ 1.599",
       image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=800&auto=format&fit=crop",
       affiliateLink: "https://mercadolivre.com/sec/2igquAH",
+      articleSlug: "computador-intel-core-i3-7-geracao-8gb-ssd-240gb-monitor"
     },
   ];
 

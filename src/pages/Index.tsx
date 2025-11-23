@@ -12,30 +12,30 @@ const Index = () => {
       price: "R$ 6.999",
       image: "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&auto=format&fit=crop",
       affiliateLink: "https://mercadolivre.com/sec/12sBVEV",
-      articleSlug: "notebook-gamer-acer-nitro",
+      articleSlug: "notebook-gamer-acer-nitro-anv15-intel-i5-13-geracao-rtx-4050",
       badge: "DESTAQUE"
     },
     {
       title: "Computador Intel Core I5 8GB RAM SSD 240GB Monitor LED 19\"",
-      price: "R$ 2.499",
+      price: "R$ 1.899",
       image: "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=800&auto=format&fit=crop",
       affiliateLink: "https://mercadolivre.com/sec/1sL3qRE",
-      articleSlug: "computador-intel-i5-completo",
+      articleSlug: "computador-intel-core-i5-8gb-ram-ssd-240gb-monitor-19",
       badge: "OFERTA"
     },
     {
       title: "Mini PDV Elgin M11 Pro Touch Screen com Impressora WiFi",
-      price: "R$ 1.899",
+      price: "R$ 2.299",
       image: "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=800&auto=format&fit=crop",
       affiliateLink: "https://mercadolivre.com/sec/2EY25ET",
-      articleSlug: "mini-pdv-elgin-m11-pro"
+      articleSlug: "mini-pdv-elgin-m11-pro-touch-screen-impressora-wifi"
     },
     {
       title: "Computador Intel Core I3 7ª Geração 8GB SSD 240GB Monitor",
-      price: "R$ 1.999",
+      price: "R$ 1.599",
       image: "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=800&auto=format&fit=crop",
       affiliateLink: "https://mercadolivre.com/sec/2igquAH",
-      articleSlug: "computador-intel-i3-geracao"
+      articleSlug: "computador-intel-core-i3-7-geracao-8gb-ssd-240gb-monitor"
     },
   ];
 
