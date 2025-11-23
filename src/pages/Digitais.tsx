@@ -11,13 +11,15 @@ const Digitais = () => {
       price: "R$ 6.999",
       image: "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&auto=format&fit=crop",
       affiliateLink: "https://mercadolivre.com/sec/12sBVEV",
+      articleSlug: "notebook-gamer-acer-nitro-anv15-intel-i5-13-geracao-rtx-4050",
       badge: "ALTO DESEMPENHO"
     },
     {
       title: "All In One AOC I5 16GB - Perfeito para Jogos Digitais",
-      price: "R$ 3.899",
+      price: "R$ 3.499",
       image: "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?w=800&auto=format&fit=crop",
       affiliateLink: "https://mercadolivre.com/sec/2zKgpjm",
+      articleSlug: "all-in-one-computador-aoc-intel-i5-16gb-ssd-512-tela-27-full-hd"
     },
   ];
 
